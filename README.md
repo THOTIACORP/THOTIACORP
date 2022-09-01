@@ -28,16 +28,16 @@ Desenvolvido com auxílio de colaboradores.
 
 # Índice
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-como-fazer-o-dowload-do-desenvolvimento">
+<a  href="https://github.com/THOTIACORP/README.md#-como-fazer-o-dowload-do-desenvolvimento">
 💻  Como fazer o download do desenvolvimento</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
+<a  href="https://github.com/THOTIACORP/README.md#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
 📚 Como começar os estudos e desenvolvimentos</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-como-rodar-o-desenvolvimento-em-localhost">
+<a  href="https://github.com/THOTIACORP/README.md#-como-rodar-o-desenvolvimento-em-localhost">
 🤔 Como rodar o desenvolvimento em :localhost</a></br>
 </br></br>
-<a  href="https://github.com/THOTIACORP/ModuloExames#-instru%C3%A7%C3%B5es-para-manter-sempre-o-mesmo-padr%C3%A3o-de-programa%C3%A7%C3%A3o">
+<a  href="https://github.com/THOTIACORP/README.md#-instru%C3%A7%C3%B5es-para-manter-sempre-o-mesmo-padr%C3%A3o-de-programa%C3%A7%C3%A3o">
  💬 Instruções para manter sempre o mesmo padrão de programação</a></br>
 
 <a  href="https://github.com/THOTIACORP/README.md#-observa%C3%A7%C3%B5es-para-codar-r%C3%A1pido-e-ganhar-experi%C3%AAncia">
