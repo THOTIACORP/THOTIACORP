@@ -17,14 +17,11 @@ Produtora de Inteligência Artificial
 </div>
 
 </br></br> 
-👋 Iniciado e idealizado por Peres; RB. </br></br>
-Desenvolvido com auxílio de colaboradores.
--
--
--
--
--
-<ul>*OBS. - Colaboradores adicionar o nome e manter nome organizado por A-z. 👯</ul>
+
+<h2>👋 Iniciado e idealizado por Peres; RB. Desenvolvido com auxílio de colaboradores👯.
+</h2>
+
+
 </br></br>
 
 # Índice
@@ -193,7 +190,8 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   Em caso de querer convidar um amigo para o projeto 
   <ul><li>1º Avise que é trabalho não remunerado[Colaborador Voluntário]</li>
   <li>2º Produtividade 1 commit dia no mínimo</li>
-  <li>3º Ciente de todas normas regras e contratos faça a indicação e a empresa irá avaliar e dericionar em casos positivos um módulo que pode ser este ou não para o desenvolvedor</li>
+  <li>3º Ciente de todas normas, regras e contratos faça a indicação e a empresa irá avaliar e dericionar em casos positivos um módulo que pode ser este ou não para o desenvolvedor</li>
+  <li>4º Contato direto para contribuir <a target="_blanck" href="https://api.whatsapp.com/send?phone=5566996675486&text=Estou%20entrando%20em%20contato%20para%20contribuir%20com:">  Link</a></li>
 </ul>
 </ul>
  </br></br>
