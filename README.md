@@ -61,7 +61,7 @@ Produtora de Inteligência Artificial</br>
 👯 Convite de colaboradores indicados</a></br>
 
 <a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-sem-indica%C3%A7%C3%A3o">
-👯 Convite de colaboradores sem indicação</a></br>
+👥 Convite de colaboradores sem indicação</a></br>
 
 <a  href="https://github.com/THOTIACORP#-refer%C3%AAncias-para-cria%C3%A7%C3%A3o-deste-readmemd">
 🖍 Referências para criação deste readme.md</a></br>
@@ -197,7 +197,7 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   <li>3º Ciente de todas normas, regras e contratos faça a indicação e a empresa irá avaliar e dericionar em casos positivos um módulo que pode ser este ou não para o desenvolvedor</li>
   </br></br>
  </ul></ul> 
-  <h2>👯 Convite de colaboradores sem indicação</h2>
+  <h2>👥 Convite de colaboradores sem indicação</h2>
   <ul><b>Entrar e conferir contratos no <a href="https://github.com/THOTIACORP/THOTIACORP/blob/main/CONTRIBUTING.md" target="_blank"> Link</a></b> 
   <li>1º Estar ciente de todas as condições de colaboradores indicados<a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-indicados">
 👯 Convite de colaboradores indicados</a></li>
