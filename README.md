@@ -8,7 +8,7 @@
 <div align="center">
 <ul><b>Desenvolvedora de equipamentos e softwares médicos odontológicos de baixo custo</b>
 
-Produtora de Inteligência Artificial
+Produtora de Inteligência Artificial</br> 
 #IA #IoT #BIGDATA
 </br></br> 
 
@@ -53,12 +53,15 @@ Produtora de Inteligência Artificial
 
 <a  href="https://github.com/THOTIACORP#-seguran%C3%A7a">
 🔒 Segurança</a></br>
-
+</br></br>
 <a  href="https://github.com/THOTIACORP#-publica%C3%A7%C3%B5es-e-demais-reconhecimentos">
 🏆 Publicações e demais reconhecimentos</a></br>
 
-<a  href="https://github.com/THOTIACORP#-convite-de-colaborador">
-👯 Convite de colaborador</a></br>
+<a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-indicados">
+👯 Convite de colaboradores indicados</a></br>
+
+<a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-sem-indica%C3%A7%C3%A3o">
+👯 Convite de colaboradores sem indicação</a></br>
 
 <a  href="https://github.com/THOTIACORP#-refer%C3%AAncias-para-cria%C3%A7%C3%A3o-deste-readmemd">
 🖍 Referências para criação deste readme.md</a></br>
@@ -177,13 +180,14 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   <h2>🏆 Publicações e demais reconhecimentos</h2>
    O mérito como aluno colaborador desenvolvedor voluntário e suas devidas publicações virá na hora certa!
   <ul><li>Inclusive para o mérito preparar</li>
-  <ul><li>Foto com fundo homogêneo; utilizar como padrão o card de apresentação da equipe <a href=""  target="_blank"> Link</a></li>
+  <ul> <li>Atualizar Readme.md do github própio</li>
+  <li>Foto com fundo homogêneo; utilizar como padrão o card de apresentação da equipe <a href=""  target="_blank"> Link</a></li>
   <li>Curriculum Orcid <a href="" target="_blank"> Link</a></li>
   <li>Curriculum Lattes <a href="" target="_blank"> Link</a></li>
   <li>Linkedin<a href="" target="_blank"> Link</a></li>
   </ul> </ul>
    </br></br>
-  <h2>👯 Convite de colaborador</h2>
+  <h2>👯 Convite de colaboradores indicados</h2>
   <ul>
   Entendo o ensejo que outros amigos trabalhem neste projeto; já fiz parte de grupo de iniciação científica e tive a oportunidade de convidar amigos para aprender e trabalhar junto comigo
    </br></br>
@@ -191,13 +195,25 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   <ul><li>1º Avise que é trabalho não remunerado[Colaborador Voluntário]</li>
   <li>2º Produtividade 1 commit dia no mínimo</li>
   <li>3º Ciente de todas normas, regras e contratos faça a indicação e a empresa irá avaliar e dericionar em casos positivos um módulo que pode ser este ou não para o desenvolvedor</li>
-  <li>4º Contato direto para contribuir <a target="_blanck" href="https://api.whatsapp.com/send?phone=5566996675486&text=Estou%20entrando%20em%20contato%20para%20contribuir%20com:">  Link</a></li>
+  </br></br>
+ </ul></ul> 
+  <h2>👯 Convite de colaboradores sem indicação</h2>
+  <ul><b>Entrar e conferir contratos no <a href="https://github.com/THOTIACORP/THOTIACORP/blob/main/CONTRIBUTING.md" target="_blank"> Link</a></b> 
+  <li>1º Estar ciente de todas as condições de colaboradores indicados<a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-indicados">
+👯 Convite de colaboradores indicados</a></li>
+  <li>2º Colaboradores sem indicação deve se apresentar com todos resquisitos de publicações e demais reconhecimentos<a  href="https://github.com/THOTIACORP#-publica%C3%A7%C3%B5es-e-demais-reconhecimentos">
+🏆 Publicações e demais reconhecimentos</a></li>
+  <li>3º Colaboradores sem indicação deve formular o local de auxilio; sugerimos que este seja usuário e conhece o sistema, pois contrário não saberia como auxiliar</li>
+ 
+  <li>4º Com tudo em mãos contato direto para contribuir <a target="_blanck" href="https://api.whatsapp.com/send?phone=5566996675486&text=Estou%20entrando%20em%20contato%20para%20contribuir%20com:">  Link</a></li>
 </ul>
-</ul>
+
+
  </br></br>
   <h2>🖍 Referências para criação deste readme.md</h2>
  <ul><li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">alexandresanlim</a></li>
   </br></br>
+  </ul>
  <div align="center">
  
 
