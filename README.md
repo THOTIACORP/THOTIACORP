@@ -136,9 +136,9 @@ Demais arquivos na pasta principal
 <li>Pasta aberta clickar com botão direito em test.html</li>
 <li>Ver como select da página test.html roteia os scripts</li>
  <div align="center">
-
+<!--
 ![orgs-desafio-detalhes](https://user-images.githubusercontent.com/8989346/124600562-3a743e00-de3d-11eb-9d45-15e8a8d2976f.gif)
- 
+ -->
  </div>
 <li>Utilizar o script de Aluno1 [A] como exemplo para desenvolver e modificar os outros</li>
 <li>Notar que quase todas as outras opções de scripts tem as mesma informações conforme for atualizando tende a modificar com singularidade</li>
@@ -153,9 +153,9 @@ Demais arquivos na pasta principal
   <ul> 
           <li>1º missão - Abrir o script de trabalho > Procurar document.getElementById("NomeDaVariável.js").innerHTML = `...` <b>Notar:</b> todo código deste bloco está envolvido apenas por acentos ``</li>
  <div align="center">
-  
+  <!--
    ![orgs-desafio-detalhes](https://user-images.githubusercontent.com/8989346/124600562-3a743e00-de3d-11eb-9d45-15e8a8d2976f.gif)
-  
+  -->
   </div>
           <li>2º missão - achar as informações das variáveis e colocar em cada lugar correspondente</li>
  </ul>
