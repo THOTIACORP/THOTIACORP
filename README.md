@@ -202,11 +202,14 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   </br></br>
  <div align="center">
  
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=thotiacorp&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+
+
  
-</div>
- <p align="center">
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=thotiacorp)
+ 
+ ![Github Stats](https://github-profile-trophy.vercel.app/?username=thotiacorp)
  
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
-</p>
+
+</div>
 
