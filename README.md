@@ -212,6 +212,7 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
  </br></br>
   <h2>🖍 Referências para criação deste readme.md</h2>
  <ul><li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">alexandresanlim</a></li>
+ <li><a href="https://www.alura.com.br/artigos/escrever-bom-readme">Alura</a></li>
   </br></br>
   </ul>
  <div align="center">
