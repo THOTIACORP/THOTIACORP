@@ -178,9 +178,9 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
   <h2>🏆 Publicações e demais reconhecimentos</h2>
    O mérito como aluno colaborador desenvolvedor voluntário e suas devidas publicações virá na hora certa!
   <ul><li>Inclusive para o mérito preparar</li>
-  <ul><li>Foto com fundo homogêneo; utilizar como padrão o card de apresentação da equipe <a href=""  target="_blank" Link</a></li>
-  <li>Curriculum Orcid<a href="" target="_blank"> Link</a></li>
-  <li>Curriculum Lattes<a href="" target="_blank"> Link</a></li>
+  <ul><li>Foto com fundo homogêneo; utilizar como padrão o card de apresentação da equipe <a href=""  target="_blank"> Link</a></li>
+  <li>Curriculum Orcid <a href="" target="_blank"> Link</a></li>
+  <li>Curriculum Lattes <a href="" target="_blank"> Link</a></li>
   <li>Linkedin<a href="" target="_blank"> Link</a></li>
   </ul> </ul>
    </br></br>
