@@ -151,16 +151,16 @@ Demais arquivos na pasta principal
 <li>Abra a pasta aluno correspondente a sua parte</li>
 <li>Escolher o script de trabalho; normalmente comece por sequência A-z como está organizado no VSCode</li>
   <ul> 
-          <li>1º missão - Abrir o script de trabalho > Procurar document.getElementById("NomeDaVariável.js").innerHTML = ` <b>Notar:</b> todo código deste bloco está envolvido apenas</li>
+          <li>1º missão - Abrir o script de trabalho > Procurar document.getElementById("NomeDaVariável.js").innerHTML = `...` <b>Notar:</b> todo código deste bloco está envolvido apenas por acentos ``</li>
  <div align="center">
   
    ![orgs-desafio-detalhes](https://user-images.githubusercontent.com/8989346/124600562-3a743e00-de3d-11eb-9d45-15e8a8d2976f.gif)
   
   </div>
-          <li>2º missão - achar as informações do exames e colocar em cada lugar correspondente</li>
+          <li>2º missão - achar as informações das variáveis e colocar em cada lugar correspondente</li>
  </ul>
 <li>SELECIONE o ID no visual studio e aperte CTRL + D</li>
-<li>Veja como está referência seleciona todas os métodos e funções de forma a escrever outro script fácil </li>
+<li>Veja como está referência seleciona todas os métodos e funções de forma a escrever outro script fácil continue com mesmo padrão </li>
 
 
 Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
