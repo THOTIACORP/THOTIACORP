@@ -40,34 +40,34 @@ Desenvolvido com auxílio de colaboradores.
 <a  href="https://github.com/THOTIACORP/ModuloExames#-instru%C3%A7%C3%B5es-para-manter-sempre-o-mesmo-padr%C3%A3o-de-programa%C3%A7%C3%A3o">
  💬 Instruções para manter sempre o mesmo padrão de programação</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-observa%C3%A7%C3%B5es-para-codar-r%C3%A1pido-e-ganhar-experi%C3%AAncia">
+<a  href="https://github.com/THOTIACORP/README.md#-observa%C3%A7%C3%B5es-para-codar-r%C3%A1pido-e-ganhar-experi%C3%AAncia">
 ⚡ Observações para codar rápido e ganhar experiência!</a></br>
 
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#%EF%B8%8F-abrir-o-visual-studio-code">
+<a  href="https://github.com/THOTIACORP/README.md#%EF%B8%8F-abrir-o-visual-studio-code">
 🛠️ Abrir o Visual Studio Code</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-desenvolvendo-pondo-a-m%C3%A3o-na-massa">
+<a  href="https://github.com/THOTIACORP/README.md#-desenvolvendo-pondo-a-m%C3%A3o-na-massa">
 🚀 Desenvolvendo pondo a mão na massa</a></br>
 </br></br>
-<a  href="https://github.com/THOTIACORP/ModuloExames#-arquivo-totalmente-confidencial">
+<a  href="https://github.com/THOTIACORP/README.md#-arquivo-totalmente-confidencial">
 🔭 Arquivo totalmente confidencial</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-seguran%C3%A7a">
+<a  href="https://github.com/THOTIACORP/README.md#-seguran%C3%A7a">
 🔒 Segurança</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-publica%C3%A7%C3%B5es-e-demais-reconhecimentos">
+<a  href="https://github.com/THOTIACORP/README.md#-publica%C3%A7%C3%B5es-e-demais-reconhecimentos">
 🏆 Publicações e demais reconhecimentos</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-convite-de-colaborador">
+<a  href="https://github.com/THOTIACORP/README.md#-convite-de-colaborador">
 👯 Convite de colaborador</a></br>
 
-<a  href="https://github.com/THOTIACORP/ModuloExames#-refer%C3%AAncias-para-cria%C3%A7%C3%A3o-deste-readmemd">
+<a  href="https://github.com/THOTIACORP/README.md#-refer%C3%AAncias-para-cria%C3%A7%C3%A3o-deste-readmemd">
 🖍 Referências para criação deste readme.md</a></br>
 </br></br>
 
 <h2>💻 Como fazer o dowload do desenvolvimento</h2>
-<ul><b>Página inicial do projeto no git hub [CODE] download ZIP <a class="btn btn-primary" href="https://github.com/THOTIACORP/ModuloExames/archive/refs/heads/main.zip" target="_blank" >  Link</a></b>
+<ul><b>Página inicial do projeto no git hub [CODE] download ZIP <a class="btn btn-primary" href="#" target="_blank" >  Link</a></b>
 </ul>
 
 </br></br>
