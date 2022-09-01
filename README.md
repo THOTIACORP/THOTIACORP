@@ -115,7 +115,7 @@ Demais arquivos na pasta principal
 </b>
 </br></br>
 <li><b>Pasta Alunos + (Nº)</b> > Dentro da pasta aluno tem os scripts com nome de cada variável. Cada aluno é responsável pelo desenvolvimento progressivo de aproximadamente 100 variáveis. Como funciona os scripts: NomeDaVariável.js</li>
-<li><b>omeDaVariável.js = ID = Função</b> > Motivo de igualdade destas escritas; desenvolvimento de código rápida ordenado</li>
+<li><b>NomeDaVariável.js = ID = Função</b> > Motivo de igualdade destas escritas; desenvolvimento de código rápida ordenado</li>
 </ul>
 </br></br></br>
 
