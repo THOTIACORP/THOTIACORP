@@ -47,7 +47,14 @@ Produtora de Inteligência Artificial</br>
 
 <a  href="https://github.com/THOTIACORP#-desenvolvendo-pondo-a-m%C3%A3o-na-massa">
 🚀 Desenvolvendo pondo a mão na massa</a></br>
+
+<a  href="https://github.com/THOTIACORP#-Meu-primeiro-commit">
+🚀 Meu primeiro commit</a></br>
+
 </br></br>
+
+
+
 <a  href="https://github.com/THOTIACORP#-arquivo-totalmente-confidencial">
 🔭 Arquivo totalmente confidencial</a></br>
 
@@ -169,7 +176,7 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
 <h2>🚀 Primeiro commit</h2>
 <ul>
 <li>Baixar o git <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"  target="_blank"> Link</a></li>
-
+</ul>
 
 <h2>🔭 Arquivo totalmente confidencial</h2>
 <ul>Projeto protegido até segundo momento por contratos com colaboradores [vide instruções nos contratos assinados]
