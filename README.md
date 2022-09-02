@@ -166,6 +166,10 @@ Demais arquivos na pasta principal
 Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
 </ul>
 </br></br></br></br></br>
+<h2>🚀 Primeiro commit</h2>
+<ul>
+<li>Baixar o git <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"  target="_blank"> Link</a></li>
+
 
 <h2>🔭 Arquivo totalmente confidencial</h2>
 <ul>Projeto protegido até segundo momento por contratos com colaboradores [vide instruções nos contratos assinados]
