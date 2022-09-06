@@ -178,6 +178,7 @@ Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
 <li>Baixar o git <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"  target="_blank"> Link</a></li>
 </ul>
 
+</br></br>
 <h2>🔭 Arquivo totalmente confidencial</h2>
 <ul>Projeto protegido até segundo momento por contratos com colaboradores [vide instruções nos contratos assinados]
 </ul>
