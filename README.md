@@ -49,7 +49,7 @@ Produtora de Inteligência Artificial</br>
 🚀 Desenvolvendo pondo a mão na massa</a></br>
 
 <a  href="https://github.com/THOTIACORP#-Meu-primeiro-commit">
-🚀 Meu primeiro commit</a></br>
+🔌 Meu primeiro commit</a></br>
 
 </br></br>
 
@@ -173,7 +173,7 @@ Demais arquivos na pasta principal
 Cada aluno tem aproximadamente 100 scripts para trabalhar mãos a obra
 </ul>
 </br></br></br></br></br>
-<h2>🚀 Primeiro commit</h2>
+<h2>🔌 Primeiro commit</h2>
 <ul>
 <li>Baixar o git <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"  target="_blank"> Link</a></li>
 </ul>
