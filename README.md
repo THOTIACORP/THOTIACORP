@@ -32,13 +32,16 @@ Produtora de Inteligência Artificial</br>
 <a  href="https://github.com/THOTIACORP#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
 📚 Como começar os estudos e desenvolvimentos</a></br>
 
-</br></br>
 <a  href="https://github.com/THOTIACORP#-instru%C3%A7%C3%B5es-para-manter-sempre-o-mesmo-padr%C3%A3o-de-programa%C3%A7%C3%A3o">
  💬 Instruções para manter sempre o mesmo padrão de programação</a></br>
 
+</br></br>
+
+
+
+
 <a  href="https://github.com/THOTIACORP#-observa%C3%A7%C3%B5es-para-codar-r%C3%A1pido-e-ganhar-experi%C3%AAncia">
 ⚡ Observações para codar rápido e ganhar experiência!</a></br>
-
 
 <a  href="https://github.com/THOTIACORP#%EF%B8%8F-abrir-o-visual-studio-code">
 🛠️ Abrir o Visual Studio Code</a></br>
@@ -126,7 +129,7 @@ Demais arquivos na pasta principal
 <li>Open PHP/HTML/JS in Broser</li>
 </br>
 <b>Normalmente se seguiu as primeiras instruções do o botão do github para desktop abrir com VSCode já redireciona para pasta</b>
-<li>Pasta aberta clickar com botão test.html quando abrir a janela lateral clicar com botão direito do mouse open PHP/HTML/Browser atalho shift+F6 </li>
+<li>Pasta aberta clickar em test.html quando abrir a janela lateral com código da página test.html clicar com botão direito do mouse open PHP/HTML/Browser atalho shift+F6 </li>
 <li>Ver como select da página test.html roteia os scripts</li>
  <div align="center">
 <!--
