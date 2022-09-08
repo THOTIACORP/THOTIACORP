@@ -32,8 +32,6 @@ Produtora de Inteligência Artificial</br>
 <a  href="https://github.com/THOTIACORP#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
 📚 Como começar os estudos e desenvolvimentos</a></br>
 
-<a  href="https://github.com/THOTIACORP#-como-rodar-o-desenvolvimento-em-localhost">
-🤔 Como rodar o desenvolvimento em :localhost</a></br>
 </br></br>
 <a  href="https://github.com/THOTIACORP#-instru%C3%A7%C3%B5es-para-manter-sempre-o-mesmo-padr%C3%A3o-de-programa%C3%A7%C3%A3o">
  💬 Instruções para manter sempre o mesmo padrão de programação</a></br>
@@ -75,8 +73,12 @@ Produtora de Inteligência Artificial</br>
 </br></br>
 
 <h2>💻 Como fazer o dowload do desenvolvimento</h2>
-<ul><b>Página inicial do projeto no git hub [CODE] download ZIP <a class="btn btn-primary" href="#" target="_blank" >  Link</a></b>
-</ul>
+
+<li>Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a></li>
+<li>Conectar o Github para Desktop ao seu github</li>
+<li>Clonar este repositório no seu github para Desktop >  https://github.com/THOTIACORP/ModuloInfoExamesBiologicos.git </li>
+<li>Abrir com Vitual Studio Code </li>
+
 
 </br></br>
 <h2>📚 Como começar os estudos e desenvolvimentos</h2>
@@ -86,20 +88,6 @@ Produtora de Inteligência Artificial</br>
 <li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando para aprender até a IA. ☁⚡📊🤖🔗</li>
 <li><b>Primeiro momento </b>    > Começar sempre com Front-end básico em js e html; apenas trocar as informações dos scripts na pasta aluno de cada módulo. 📊 </li>
 <li><b>Progessão </b>    > Após o término dos módulos de informações que são basicamente front-ends; confeccionaremos os módulos de leitura ; manipulação e consumo de API > XMLHttpRequest. ☁⚡📊</li>
-</ul>
-</br></br>
-
-<h2>🤔 Como rodar o desenvolvimento em :localhost</h2>
-<ul><b>Baixar o XAMPP <a class="btn btn-primary" href="https://www.apachefriends.org/pt_br/index.html" target="_blank" >Link</a></b>
-</br></br>
-<li>Entra no diretório onde foi instalado o Xampp normalmente C:\xampp\htdocs</li>
-<li>Dentro da pasta C:\xampp\htdocs > Criar uma nova pasta com nome THOT </li>
-<li>Dentro da pasta criada THOT descarregar o arquivo do código.zip </li>
-<li>Voltar na pasta principal do Xampp encontrar Xampp-control.exe</li>
-<li>Ao abri o aplicativo "programa" Xampp-control.exe > apertar start Apache</li>
-<li>Apache com fundo verde > aplicativo rodando</li>
-
-<li>Proseguir para instruções básicas antes de por a mão na massa</li>
 </ul>
 </br></br>
 
@@ -137,10 +125,8 @@ Demais arquivos na pasta principal
 <b>Instalar extensôes</b>
 <li>Open PHP/HTML/JS in Broser</li>
 </br>
-<b>Abrir o código.zip no VSCode</b>
-<li>Arquivos abrir pasta [Atalho] CTRL + K solta K + O</li>
-<li>Procurar C:\xampp\htdocs\THOT > Abrir pasta</li>
-<li>Pasta aberta clickar com botão direito em test.html</li>
+<b>Normalmente se seguiu as primeiras instruções do o botão do github para desktop abrir com VSCode já redireciona para pasta</b>
+<li>Pasta aberta clickar com botão test.html quando abrir a janela lateral clicar com botão direito do mouse open PHP/HTML/Browser atalho shift+F6 </li>
 <li>Ver como select da página test.html roteia os scripts</li>
  <div align="center">
 <!--
