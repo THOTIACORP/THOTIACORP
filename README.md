@@ -76,8 +76,8 @@ Produtora de Inteligência Artificial</br>
 
 <li>Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a></li>
 <li>Conectar o Github para Desktop ao seu github</li>
-<li>Clonar este repositório no seu github para Desktop >  https://github.com/THOTIACORP/ModuloInfoExamesBiologicos.git </li>
-<li>Abrir com Vitual Studio Code </li>
+<li>Clonar o repositório de trabalho no seu github para Desktop </li>
+<li>No seu github para Desktop clickar em abrir com Vitual Studio Code </li>
 
 
 </br></br>
