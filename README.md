@@ -70,6 +70,7 @@ Produtora de Inteligência Artificial</br>
 
 <a  href="https://github.com/THOTIACORP#-convite-de-colaboradores-sem-indica%C3%A7%C3%A3o">
 👥 Convite de colaboradores sem indicação</a></br>
+</br></br>
 
 <a  href="https://github.com/THOTIACORP#-refer%C3%AAncias-para-cria%C3%A7%C3%A3o-deste-readmemd">
 🖍 Referências para criação deste readme.md</a></br>
