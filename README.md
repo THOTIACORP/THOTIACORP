@@ -6,13 +6,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&&logo=tensorflow&logoColor=white)
 </br></br> 
 <div align="center">
-<ul><b>Desenvolvedora de equipamentos e softwares médicos odontológicos de baixo custo</b>
+<ul><b>Desenvolvedora de softwares e equipamentos para saúde </b>
 
 Produtora de Inteligência Artificial</br> 
 #IA #IoT #BIGDATA
 </br></br> 
 
-<a href="http://thotiacorp.com.br" target="_blank" ><b>thotiacorp.com.br</b></a>
+<a href="https://thotiacorp.com.br" target="_blank" ><b>thotiacorp.com.br</b></a>
 </ul>
 </div>
 
