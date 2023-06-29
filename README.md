@@ -86,7 +86,7 @@ Produtora de Inteligência Artificial</br>
 
 </br></br>
 <h2>📚 Como começar os estudos e desenvolvimentos</h2>
-<ul><b>Ler todo o readme com atenção
+<ul><b>Ler todo esse readme com atenção
 </b>
 </br></br>
 <li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando a codar para aprender até a IA. ☁⚡📊🤖🔗</li>
