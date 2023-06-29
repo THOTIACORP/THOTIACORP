@@ -98,10 +98,12 @@ Produtora de Inteligência Artificial</br>
 
 <h2>💬 Instruções para manter sempre o mesmo padrão de programação</h2>
 <b> 
-<ul>Arquivos únicos na pasta
+<ul>Arquivos únicos no sistema
 </b>
 </br></br>
-<li><b>index.js </b>    > Padrão de referencia CDN  > <b>Função</b> > Redireciona todos script.js pasta para qualquer página solicitada.</li>
+<li><b>Global </b>    > Componentes reutilizáveis  > <b>Função</b> > Código limpo de fácil manutenção.</li>
+ <ul><b>index.js </b>    > Componentes reutilizáveis  > <b>Função</b> > 
+ Redireciona todos script.js pasta para qualquer página solicitada.</ul>
 
  [Revisar]
 <li><b>index.html </b>  > Padrão de segurança extra > <b>Função</b> > 
