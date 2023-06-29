@@ -98,14 +98,34 @@ Produtora de Inteligência Artificial</br>
 
 <h2>💬 Instruções para manter sempre o mesmo padrão de programação</h2>
 <b> 
-<ul>Arquivos únicos no sistema
+<ul>Visão Geral da Arquitetura do Sistema
 </b>
 </br></br>
+ <p>A estrutura de software está dividida em quatro principais componentes:</p>
+
+<ul>
+  <li>
+    <strong>Contexts:</strong> Os Contexts são responsáveis por gerenciar o estado global da aplicação. Eles permitem o compartilhamento de dados e funcionalidades entre diferentes componentes da interface do usuário. Cada contexto representa um domínio específico da aplicação e possui seu próprio conjunto de dados e lógica de negócio. Essa separação ajuda a manter o código organizado e facilita a manutenção.
+  </li>
+  <li>
+    <strong>Services:</strong> Os Services são responsáveis por encapsular a lógica de comunicação com APIs externas ou serviços do backend. Eles fornecem métodos para acessar e manipular os dados provenientes dessas fontes externas. Essa abstração permite isolar a complexidade da interação com o backend, facilitando o desenvolvimento e a manutenção da aplicação.
+  </li>
+  <li>
+    <strong>Pages:</strong> As Pages representam as diferentes telas ou rotas da aplicação. Cada página é composta por componentes reutilizáveis e é responsável por definir a estrutura e o layout da interface do usuário. As Pages utilizam os Contexts e Services para buscar dados, realizar ações e gerenciar o estado da aplicação.
+  </li>
+  <li>
+    <strong>Routes:</strong> As Routes são responsáveis por definir as rotas da aplicação e mapeá-las para as Pages correspondentes. Elas permitem a navegação entre as diferentes telas da aplicação e garantem que o conteúdo correto seja exibido com base na URL atual. As Routes podem ser configuradas para exigir autenticação ou aplicar regras de controle de acesso.
+  </li>
+</ul>
+
+
+
+ [Revisar] [Revisar] [Revisar] [Revisar]
 <li><b>Global </b>    > Componentes reutilizáveis  > <b>Função</b> > Código limpo de fácil manutenção.</li>
  <ul><b>index.js </b>    > Componentes reutilizáveis  > <b>Função</b> > 
  Redireciona todos script.js pasta para qualquer página solicitada.</ul>
 
- [Revisar]
+ [Revisar] [Revisar] [Revisar] [Revisar] [Revisar]
 <li><b>index.html </b>  > Padrão de segurança extra > <b>Função</b> > 
 Na tentiva de entrar na página do módulo de scripts o index.html puxa a leitura para si não deixando cascata de nomes dos scripts aparecer livremente; consequentemente aviso de rastreio no gerenciador web, informando tentativa de invasão na pasta módulo Nome.js</li>
 <li><b>teste.html </b>  > Padrão de test do módulo de scripts que estão sendo desenvolvidos</li>
@@ -114,7 +134,7 @@ Na tentiva de entrar na página do módulo de scripts o index.html puxa a leitur
 </ul>
 
 <ul>
-<b>
+<b> [Revisar] [Revisar] [Revisar]
 Demais arquivos na pasta principal
 </b>
 </br></br>
@@ -129,6 +149,7 @@ Demais arquivos na pasta principal
 </ul>
 </br></br>
 
+ [Revisar] [Revisar] [Revisar] [Revisar]
 <h2>🛠️ Abrir o Visual Studio Code</h2>
 <ul>
 <b>Instalar extensôes</b>
@@ -147,7 +168,7 @@ Demais arquivos na pasta principal
 </ul>
 </br></br>
 
-
+ [Revisar] [Revisar] [Revisar] [Revisar] [Revisar]
 <h2>🚀 Desenvolvendo pondo a mão na massa</h2>
 <ul>
 <li>Abra a pasta aluno correspondente a sua parte</li>
