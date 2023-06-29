@@ -91,8 +91,8 @@ Produtora de Inteligência Artificial</br>
 </br></br>
 <li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando a codar para aprender até a IA. ☁⚡📊🤖🔗</li>
 <li><b>Primeiro momento </b>    > Começar sempre com Front-end básico em .JS e html CSS.📊</li>
- <li><b>Para orientar sempre olhar o raodmap.sh</b>  <a class="btn btn-primary" href="https://roadmap.sh" target="_blank" >  Link</a>
-<li><b>Progessão </b>    > Após o término de aprendizado do front-end; confeccionaremos os módulos de leitura ; manipulação e consumo de API > ☁⚡📊</li>
+ <li><b>Para orientar aprendizado sempre olhar</b> Roadmap.sh  <a class="btn btn-primary" href="https://roadmap.sh" target="_blank" >  Link</a>
+<li><b>Progessão </b>    > Após o término de aprendizado do front-end; confeccione módulos de leitura [GET , POST, PUT] ; manipulação e consumo de API > ☁⚡📊</li>
 </ul>
 </br></br>
 
