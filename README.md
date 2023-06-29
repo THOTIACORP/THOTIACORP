@@ -123,23 +123,7 @@ Produtora de Inteligência Artificial</br>
 <ul>Visão Geral da Arquitetura do Sistema - Back-end
 </b>
 </br></br>
- [Revisar] [Revisar] [Revisar] [Revisar]
-<li><b>Global </b>    > Componentes reutilizáveis  > <b>Função</b> > Código limpo de fácil manutenção.</li>
- <ul><b>index.js </b>    > Componentes reutilizáveis  > <b>Função</b> > 
- Redireciona todos script.js pasta para qualquer página solicitada.</ul>
 
-</br></br></br>
-</ul>
-
-<ul>
-<b> [Revisar] [Revisar] [Revisar]
-Demais arquivos na pasta principal
-</b>
-</br></br>
-<li><b>Pasta Alunos + (Nº)</b> > Dentro da pasta aluno tem os scripts com nome de cada variável. Cada aluno é responsável pelo desenvolvimento progressivo de aproximadamente 100 variáveis. Como funciona os scripts: NomeDaVariável.js</li>
-<li><b>NomeDaVariável.js = ID = Função</b> > Motivo de igualdade destas escritas; desenvolvimento de código rápida ordenado</li>
-</ul>
-</br></br></br>
 
 <h2>⚡ Observações para codar rápido e ganhar experiência!</h2>
 <ul><b>Baixar o Visual Studio Code (VSCode)<a class="btn btn-primary" href="https://code.visualstudio.com/" target="_blank" >  Link</a></b>
