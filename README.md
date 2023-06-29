@@ -81,7 +81,7 @@ Produtora de Inteligência Artificial</br>
 <li>Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a></li>
 <li>Conectar o Github para Desktop ao seu github</li>
 <li>Clonar o repositório de trabalho no seu github para Desktop </li>
-<li>No seu github para Desktop clickar em abrir com Vitual Studio Code </li>
+<li>No seu github para Desktop clickar em abrir com Vitual Studio Code clonar o diretorio especificado pelo cordernador </li>
 
 
 </br></br>
@@ -89,9 +89,9 @@ Produtora de Inteligência Artificial</br>
 <ul><b>Ler todo o readme com atenção
 </b>
 </br></br>
-<li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando para aprender até a IA. ☁⚡📊🤖🔗</li>
-<li><b>Primeiro momento </b>    > Começar sempre com Front-end básico em js e html; apenas trocar as informações dos scripts na pasta aluno de cada módulo. 📊 </li>
-<li><b>Progessão </b>    > Após o término dos módulos de informações que são basicamente front-ends; confeccionaremos os módulos de leitura ; manipulação e consumo de API > XMLHttpRequest. ☁⚡📊</li>
+<li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando a codar para aprender até a IA. ☁⚡📊🤖🔗</li>
+<li><b>Primeiro momento </b>    > Começar sempre com Front-end básico em .JS e html CSS 📊 </li>
+<li><b>Progessão </b>    > Após o término de aprendizado do front-end; confeccionaremos os módulos de leitura ; manipulação e consumo de API > ☁⚡📊</li>
 </ul>
 </br></br>
 
@@ -100,7 +100,9 @@ Produtora de Inteligência Artificial</br>
 <ul>Arquivos únicos na pasta
 </b>
 </br></br>
-<li><b>index.js </b>    > Padrão de referencia CDN  > <b>Função</b> > Redireciona todos script.js das pasta aluno para qualquer página solicitada.</li>
+<li><b>index.js </b>    > Padrão de referencia CDN  > <b>Função</b> > Redireciona todos script.js pasta para qualquer página solicitada.</li>
+
+ [Revisar]
 <li><b>index.html </b>  > Padrão de segurança extra > <b>Função</b> > 
 Na tentiva de entrar na página do módulo de scripts o index.html puxa a leitura para si não deixando cascata de nomes dos scripts aparecer livremente; consequentemente aviso de rastreio no gerenciador web, informando tentativa de invasão na pasta módulo Nome.js</li>
 <li><b>teste.html </b>  > Padrão de test do módulo de scripts que estão sendo desenvolvidos</li>
