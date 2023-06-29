@@ -118,18 +118,13 @@ Produtora de Inteligência Artificial</br>
   </li>
 </ul>
 
-
+</br></br></br>
 
  [Revisar] [Revisar] [Revisar] [Revisar]
 <li><b>Global </b>    > Componentes reutilizáveis  > <b>Função</b> > Código limpo de fácil manutenção.</li>
  <ul><b>index.js </b>    > Componentes reutilizáveis  > <b>Função</b> > 
  Redireciona todos script.js pasta para qualquer página solicitada.</ul>
 
- [Revisar] [Revisar] [Revisar] [Revisar] [Revisar]
-<li><b>index.html </b>  > Padrão de segurança extra > <b>Função</b> > 
-Na tentiva de entrar na página do módulo de scripts o index.html puxa a leitura para si não deixando cascata de nomes dos scripts aparecer livremente; consequentemente aviso de rastreio no gerenciador web, informando tentativa de invasão na pasta módulo Nome.js</li>
-<li><b>teste.html </b>  > Padrão de test do módulo de scripts que estão sendo desenvolvidos</li>
-<li><b>nome.txt </b> > Nome de todos variáveis existentes com capitalize sempre tudo junto com primeira letra maiúscula.</li>
 </br></br></br>
 </ul>
 
