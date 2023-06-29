@@ -98,7 +98,7 @@ Produtora de Inteligência Artificial</br>
 
 <h2>💬 Instruções para manter sempre o mesmo padrão de programação</h2>
 <b> 
-<ul>Visão Geral da Arquitetura do Sistema - Front-end
+<ul>Visão Geral da Arquitetura do Sistema - Front-end </ul>
 </b>
 </br></br>
  <p>A estrutura de software está dividida em quatro principais componentes:</p>
