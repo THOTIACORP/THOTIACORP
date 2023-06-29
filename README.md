@@ -98,7 +98,7 @@ Produtora de Inteligência Artificial</br>
 
 <h2>💬 Instruções para manter sempre o mesmo padrão de programação</h2>
 <b> 
-<ul>Visão Geral da Arquitetura do Sistema
+<ul>Visão Geral da Arquitetura do Sistema - Front-end
 </b>
 </br></br>
  <p>A estrutura de software está dividida em quatro principais componentes:</p>
@@ -119,7 +119,10 @@ Produtora de Inteligência Artificial</br>
 </ul>
 
 </br></br></br>
-
+<b> 
+<ul>Visão Geral da Arquitetura do Sistema - Back-end
+</b>
+</br></br>
  [Revisar] [Revisar] [Revisar] [Revisar]
 <li><b>Global </b>    > Componentes reutilizáveis  > <b>Função</b> > Código limpo de fácil manutenção.</li>
  <ul><b>index.js </b>    > Componentes reutilizáveis  > <b>Função</b> > 
