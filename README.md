@@ -137,8 +137,8 @@ Produtora de Inteligência Artificial</br>
         <li><strong>index.js</strong>: Ponto de entrada do aplicativo, onde o servidor é iniciado e as configurações iniciais são realizadas.</li>
       </ul>
     </li>
-    <li><strong>public</strong> (opcional): Pasta para armazenar arquivos públicos, como uploads de usuários.</li>
-    <li><strong>test</strong> (opcional): Pasta para os testes do projeto.
+    <li><strong>public</strong> : Pasta para armazenar arquivos públicos, como uploads de usuários.</li>
+    <li><strong>test</strong> : Pasta para os testes do projeto.
       <ul>
         <li><strong>unit</strong>: Testes unitários para componentes individuais do aplicativo.</li>
         <li><strong>integration</strong>: Testes de integração para verificar a interação entre os componentes.</li>
@@ -146,7 +146,8 @@ Produtora de Inteligência Artificial</br>
     </li>
     <li><strong>package.json</strong>: Arquivo de configuração com dependências, scripts e informações do projeto.</li>
   </ul>
-
+</br></br>
+</br></br>
 <h2>⚡ Observações para codar rápido e ganhar experiência!</h2>
 <ul><b>Baixar o Visual Studio Code (VSCode)<a class="btn btn-primary" href="https://code.visualstudio.com/" target="_blank" >  Link</a></b>
 </br></br>
