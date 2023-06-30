@@ -89,10 +89,10 @@ Produtora de Inteligência Artificial</br>
 <ul><b>Ler todo esse readme com atenção
 </b>
 </br></br>
-<li><b>Seguir o passo-a-passo </b>    > Este readme foi preparado para ser um compilado do essencial para quem está começando a codar para aprender do 0 até às I.As. ☁⚡📊🤖🔗</li>
-<li><b>Primeiro momento </b>    > Começar sempre com Front-end básico em .JS e html CSS.📊</li>
- <li><b>Para orientar aprendizado sempre olhar</b> Roadmap.sh  <a class="btn btn-primary" href="https://roadmap.sh" target="_blank" >  Link</a>
-<li><b>Progessão </b>    > Após o término de aprendizado do front-end; confeccione módulos de leitura [GET , POST, PUT] ; manipulação e consumo de API > ☁⚡📊</li>
+<li><b>Seguir o passo-a-passo </b> - Este readme foi preparado para ser um compilado do essencial para quem está começando a codar para aprender do 0 até às I.As. ☁⚡📊🤖🔗</li>
+<li><b>Primeiro momento </b>    - Começar sempre com Front-end básico em .JS e html CSS.📊</li>
+ <li><b>Para orientar aprendizado sempre olhar</b> - Roadmap.sh  <a class="btn btn-primary" href="https://roadmap.sh" target="_blank" >  Link</a>
+<li><b>Progessão </b>    - Após o término de aprendizado do front-end; confeccione módulos de leitura [GET , POST, PUT] ; manipulação e consumo de API > ☁⚡📊</li>
 </ul>
 </br></br>
 
@@ -124,6 +124,28 @@ Produtora de Inteligência Artificial</br>
 </ul></b>
 </br></br>
 
+  <ul>
+    <li><strong>src</strong>: Esta pasta contém o código-fonte principal do projeto.
+      <ul>
+        <li><strong>config</strong>: Contém arquivos de configuração da aplicação, como configurações de banco de dados, autenticação, etc.</li>
+        <li><strong>controllers</strong>: Responsável por lidar com as solicitações recebidas pelo servidor.</li>
+        <li><strong>models</strong>: Contém as definições dos modelos de dados ou objetos de negócio.</li>
+        <li><strong>services</strong>: Responsável pela lógica de negócios ou serviços que manipulam os dados e executam operações.</li>
+        <li><strong>middlewares</strong>: Contém middlewares para tarefas como autenticação, validação, tratamento de erros, etc.</li>
+        <li><strong>routes</strong>: Configuração das rotas da API.</li>
+        <li><strong>utils</strong>: Funções auxiliares ou utilitários reutilizáveis.</li>
+        <li><strong>index.js</strong>: Ponto de entrada do aplicativo, onde o servidor é iniciado e as configurações iniciais são realizadas.</li>
+      </ul>
+    </li>
+    <li><strong>public</strong> (opcional): Pasta para armazenar arquivos públicos, como uploads de usuários.</li>
+    <li><strong>test</strong> (opcional): Pasta para os testes do projeto.
+      <ul>
+        <li><strong>unit</strong>: Testes unitários para componentes individuais do aplicativo.</li>
+        <li><strong>integration</strong>: Testes de integração para verificar a interação entre os componentes.</li>
+      </ul>
+    </li>
+    <li><strong>package.json</strong>: Arquivo de configuração com dependências, scripts e informações do projeto.</li>
+  </ul>
 
 <h2>⚡ Observações para codar rápido e ganhar experiência!</h2>
 <ul><b>Baixar o Visual Studio Code (VSCode)<a class="btn btn-primary" href="https://code.visualstudio.com/" target="_blank" >  Link</a></b>
