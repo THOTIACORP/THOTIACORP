@@ -173,7 +173,8 @@ Passo 3: Fazer Commits
 Após fazer as alterações, você precisa fazer um commit para salvar as mudanças localmente. Use o seguinte comando:
  ```bash
 git add .
-git commit -m "Mensagem do commit" ```
+git commit -m "Mensagem do commit"
+```
 Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no commit.
 
 # Git Branch Merge
