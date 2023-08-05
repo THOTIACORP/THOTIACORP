@@ -163,10 +163,10 @@ Produtora de Inteligência Artificial</br>
  Passo 1: Criar uma Nova Branch com nome o número da tarefa do Jira
  
  ```bash
- git checkout -b [Nº Tarefa do Jira]
+ git checkout -b Numero_tarefa_jira
   ```
 
-Substitua "[Nº Tarefa do Jira]" pelo nome que você deseja dar à sua branch.
+Substitua "Numero_tarefa_jira" pelo nome que você deseja dar à sua branch.
 
 Passo 2: Começar a Trabalhar
 Agora você está pronto para começar a trabalhar no projeto. Use o seu editor de código preferido para fazer as alterações desejadas nos arquivos do projeto.
