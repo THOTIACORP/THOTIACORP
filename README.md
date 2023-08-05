@@ -249,10 +249,7 @@ git branch -d minha-nova-branch
 O merge é uma operação importante no Git que permite combinar as alterações de diferentes branches. Seguindo os passos acima, você pode realizar o merge de forma eficiente e eficaz em seus projetos Git. Lembre-se sempre de atualizar a branch de destino antes de fazer o merge e resolver quaisquer conflitos que possam surgir.
 
 Espero que este guia tenha sido útil para você entender melhor como fazer um merge de branches no Git. Se você tiver mais perguntas ou precisar de mais ajuda, não hesite em perguntar. Happy coding!
-<h2>🔌 Primeiro commit</h2>
-<ul>
-<li>Baixar o git <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"  target="_blank"> Link</a></li>
-</ul>
+
 
 </br></br>
 <h2>🔭 Arquivo totalmente confidencial</h2>
