@@ -160,7 +160,7 @@ Produtora de Inteligência Artificial</br>
 <h2>🛠️ Abrir o Visual Studio Code</h2>
 <ul>
 <b>Instalar extensôes</b>
-
+</ul>
 <h2>🚀 Desenvolvendo pondo a mão na massa</h2>
  Passo 1: Criar uma Nova Branch com nome o número da tarefa do Jira
  git checkout -b [Nº Tarefa do Jira]
