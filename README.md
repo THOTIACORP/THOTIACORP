@@ -161,9 +161,11 @@ Produtora de Inteligência Artificial</br>
 </ul>
 <h2>🚀 Desenvolvendo pondo a mão na massa</h2>
  Passo 1: Criar uma Nova Branch com nome o número da tarefa do Jira
+ 
  ```bash
  git checkout -b [Nº Tarefa do Jira]
   ```
+
 Substitua "[Nº Tarefa do Jira]" pelo nome que você deseja dar à sua branch.
 
 Passo 2: Começar a Trabalhar
