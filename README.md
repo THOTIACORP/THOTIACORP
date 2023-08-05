@@ -183,37 +183,17 @@ Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no c
 
 Este é um guia detalhado sobre como realizar um merge de branches no Git. Um merge é uma operação que combina as alterações de uma branch em outra, criando um histórico de alterações consolidado. É uma prática comum quando se trabalha em projetos colaborativos ou quando se deseja adicionar novas funcionalidades ao código existente.
 
-## Passo 1: Criar uma nova branch
 
-Antes de realizar um merge, é importante garantir que você tenha uma nova branch com as alterações que deseja incorporar à branch de destino. Se ainda não tiver criado a branch, você pode fazê-lo usando o seguinte comando:
+## Passo 1: Atualizar a branch de destino
 
-```bash
-git checkout -b minha-nova-branch
-```
-
-## Passo 2: Realizar as alterações
-
-Agora que você está na sua nova branch, faça as alterações desejadas no código do projeto. Você pode adicionar, modificar ou excluir arquivos conforme necessário.
-
-## Passo 3: Commit das alterações
-
-Após fazer as alterações, é hora de fazer o commit das mudanças na sua nova branch:
+Antes de fazer o merge, é importante garantir que a branch de trabalho (normalmente a branch principal da pessoa) esteja atualizada com as últimas alterações do repositório remoto Devoluper. Para isso, você pode usar o seguinte comando:
 
 ```bash
-git add .
-git commit -m "Adicionando novas funcionalidades"
+git checkout Devoluper
+git merge Devoluper --no-commit
 ```
 
-## Passo 4: Atualizar a branch de destino
-
-Antes de fazer o merge, é importante garantir que a branch de destino (normalmente a branch principal) esteja atualizada com as últimas alterações do repositório remoto. Para isso, você pode usar o seguinte comando:
-
-```bash
-git checkout branch-de-destino
-git pull origin branch-de-destino
-```
-
-## Passo 5: Realizar o merge
+## Passo 2: Realizar o merge
 
 Agora que sua nova branch está atualizada e suas alterações foram commitadas, você pode realizar o merge:
 
@@ -224,24 +204,24 @@ git merge minha-nova-branch
 
 Este comando combinará as alterações da sua nova branch na branch de destino.
 
-## Passo 6: Resolver conflitos (se houver)
+## Passo 3: Resolver conflitos (se houver)
 
 Em alguns casos, pode haver conflitos entre as alterações da sua nova branch e da branch de destino. O Git tentará resolver automaticamente os conflitos sempre que possível, mas em alguns casos, você precisará resolvê-los manualmente. Após resolver os conflitos, adicione as mudanças e faça um novo commit.
 
-## Passo 7: Finalizar o merge
+## Passo 4: Finalizar o merge
 
 Após resolver os conflitos e fazer um novo commit, o merge estará completo. Agora você pode enviar as alterações para o repositório remoto:
 
 ```bash
-git push origin branch-de-destino
+git push origin Devoluper
 ```
 
-## Passo 8: Excluir a nova branch (opcional)
+## Passo 8: Excluir a nova branch
 
 Se você não precisa mais da nova branch após o merge, você pode excluí-la:
 
 ```bash
-git branch -d minha-nova-branch
+git branch -d Numero_tarefa_Jira
 ```
 
 ## Conclusão
