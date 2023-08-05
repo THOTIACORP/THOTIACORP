@@ -49,8 +49,6 @@ Produtora de Inteligência Artificial</br>
 <a  href="https://github.com/THOTIACORP#-desenvolvendo-pondo-a-m%C3%A3o-na-massa">
 🚀 Desenvolvendo pondo a mão na massa</a></br>
 
-<a  href="https://github.com/THOTIACORP#-Meu-primeiro-commit">
-🔌 Meu primeiro commit</a></br>
 
 </br></br>
 
@@ -163,7 +161,9 @@ Produtora de Inteligência Artificial</br>
 </ul>
 <h2>🚀 Desenvolvendo pondo a mão na massa</h2>
  Passo 1: Criar uma Nova Branch com nome o número da tarefa do Jira
+ ```bash
  git checkout -b [Nº Tarefa do Jira]
+  ```
 Substitua "[Nº Tarefa do Jira]" pelo nome que você deseja dar à sua branch.
 
 Passo 2: Começar a Trabalhar
@@ -171,9 +171,9 @@ Agora você está pronto para começar a trabalhar no projeto. Use o seu editor 
 
 Passo 3: Fazer Commits
 Após fazer as alterações, você precisa fazer um commit para salvar as mudanças localmente. Use o seguinte comando:
-
+ ```bash
 git add .
-git commit -m "Mensagem do commit"
+git commit -m "Mensagem do commit" ```
 Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no commit.
 
 # Git Branch Merge
