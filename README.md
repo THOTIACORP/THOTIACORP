@@ -186,26 +186,29 @@ Este é um guia detalhado sobre como realizar um merge de branches no Git. Um me
 
 ## Passo 1: Atualizar a branch de destino
 
-Antes de fazer o merge, é importante garantir que a branch de trabalho (normalmente a branch principal da pessoa) esteja atualizada com as últimas alterações do repositório remoto Devoluper. Para isso, você pode usar o seguinte comando:
+Antes de fazer o merge, é importante garantir que a branch de trabalho (normalmente a branch principal do projeo) esteja atualizada com as últimas alterações do repositório remoto Devoluper. Para isso, você pode usar o seguinte comando:
 
 ```bash
 git checkout Devoluper
 git merge Devoluper --no-commit
 ```
 
-## Passo 2: Realizar o merge
+## Passo 2: Realizar atualização da branch de trabalho 
 
-Agora que sua nova branch está atualizada e suas alterações foram commitadas, você pode realizar o merge:
+Agora que a branch Devoluper está atualizada e suas alterações foram commitadas, você pode ir para sua branch para realizar a atualização:
 
 ```bash
-git checkout branch-de-destino
-git merge minha-nova-branch
+git checkout Numero_tarefa_jira
+git pull origin Devoluper
 ```
 
-Este comando combinará as alterações da sua nova branch na branch de destino.
+Este comando atualizará as alterações da branch Devoluper na branch de trabalho Numero_tarefa_jira .
 
-## Passo 3: Resolver conflitos (se houver)
+## Passo 3: Realizar merge e resolver conflitos (se houver)
 
+```bash
+git push origin Devoluper
+```
 Em alguns casos, pode haver conflitos entre as alterações da sua nova branch e da branch de destino. O Git tentará resolver automaticamente os conflitos sempre que possível, mas em alguns casos, você precisará resolvê-los manualmente. Após resolver os conflitos, adicione as mudanças e faça um novo commit.
 
 ## Passo 4: Finalizar o merge
@@ -216,7 +219,7 @@ Após resolver os conflitos e fazer um novo commit, o merge estará completo. Ag
 git push origin Devoluper
 ```
 
-## Passo 8: Excluir a nova branch
+## Passo 5: Excluir a nova branch
 
 Se você não precisa mais da nova branch após o merge, você pode excluí-la:
 
