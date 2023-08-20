@@ -6,7 +6,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&&logo=tensorflow&logoColor=white)
 </br></br> 
 <div align="center">
-<ul><b>Desenvolvedora de softwares e equipamentos para saúde </b>
+
+![Logo](https://thotiacorp.com.br/static/media/logo.c0fbda65ca04c9013679.ico)
+
+<ul><b>Desenvolvedora de Softwares e Equipamentos para Saúde </b>
 
 Produtora de Inteligência Artificial</br> 
 #IA #IoT #BIGDATA
@@ -177,16 +180,16 @@ Após fazer as alterações, você precisa fazer um commit para salvar as mudan�
 git add .
 git commit -m "Mensagem do commit"
 ```
-Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no commit.
+Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no commit seguindo padrão abaixo.
 
 
 
 
-## Padrões de commit
+### Padrões de commit
 
 Este projeto segue a convenção de mensagens de commit "Conventional Commits" para manter um histórico de alterações claro e padronizado.
 
-## Formato da Mensagem de Commit
+### Formato da Mensagem de Commit
 
 Uma mensagem de commit deve ter o seguinte formato:
 
@@ -199,7 +202,7 @@ Exemplos:
 - ✨ `feat(user-auth): adiciona autenticação de usuário`
 - 🐛 `fix(api): corrige tratamento de erros no endpoint /api`
 
-## Tipos de Commits
+### Tipos de Commits
 
 - ✨ `feat`: Nova funcionalidade.
 - 🐛 `fix`: Correção de bug.
@@ -210,13 +213,13 @@ Exemplos:
 - 🧪 `test`: Adições ou modificações em testes.
 - 🚀 `chore`: Atualizações diversas (configurações, tarefas de build, etc.).
 
-## Exemplos
+### Exemplos
 
 - ✨ `feat(login): adiciona página de login`
 - 🐛 `fix(api): corrige tratamento de erro no endpoint /api`
 - 📚 `docs(readme): atualiza instruções de commit`
 
-## Mensagens Detalhadas
+### Mensagens Detalhadas
 
 Se necessário, adicione uma descrição mais detalhada após a linha de resumo. Use uma quebra de linha em branco para separar a linha de resumo e a descrição.
 
