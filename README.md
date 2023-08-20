@@ -179,7 +179,50 @@ git commit -m "Mensagem do commit"
 ```
 Substitua "Mensagem do commit" por uma mensagem descritiva do que foi feito no commit.
 
-# Git Branch Merge
+
+
+
+## Padrões de commit
+
+Este projeto segue a convenção de mensagens de commit "Conventional Commits" para manter um histórico de alterações claro e padronizado.
+
+## Formato da Mensagem de Commit
+
+Uma mensagem de commit deve ter o seguinte formato:
+
+
+- 📦 **Tipo**: Indica a natureza do commit (obrigatório).
+- 📝 **Escopo**: Indica a área ou módulo afetado pela alteração (opcional).
+- 📌 **Descrição**: Breve resumo da alteração (obrigatório).
+
+Exemplos:
+- ✨ `feat(user-auth): adiciona autenticação de usuário`
+- 🐛 `fix(api): corrige tratamento de erros no endpoint /api`
+
+## Tipos de Commits
+
+- ✨ `feat`: Nova funcionalidade.
+- 🐛 `fix`: Correção de bug.
+- 📚 `docs`: Atualizações ou adições à documentação.
+- 💅 `style`: Mudanças que não afetam o código (formatação, espaços em branco, etc.).
+- ♻️ `refactor`: Refatorações de código que não alteram o comportamento.
+- ⚡️ `perf`: Melhorias de desempenho.
+- 🧪 `test`: Adições ou modificações em testes.
+- 🚀 `chore`: Atualizações diversas (configurações, tarefas de build, etc.).
+
+## Exemplos
+
+- ✨ `feat(login): adiciona página de login`
+- 🐛 `fix(api): corrige tratamento de erro no endpoint /api`
+- 📚 `docs(readme): atualiza instruções de commit`
+
+## Mensagens Detalhadas
+
+Se necessário, adicione uma descrição mais detalhada após a linha de resumo. Use uma quebra de linha em branco para separar a linha de resumo e a descrição.
+
+Exemplo:
+
+## Git Branch Merge
 
 Este é um guia detalhado sobre como realizar um merge de branches no Git. Um merge é uma operação que combina as alterações de uma branch em outra, criando um histórico de alterações consolidado. É uma prática comum quando se trabalha em projetos colaborativos ou quando se deseja adicionar novas funcionalidades ao código existente.
 
