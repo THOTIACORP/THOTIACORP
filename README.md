@@ -232,28 +232,28 @@ Este é um guia detalhado sobre como realizar um merge de branches no Git. Um me
 
 ### Passo 1: Atualizar a branch de destino
 
-Antes de fazer o merge, é importante garantir que a branch de trabalho (normalmente a branch principal do projeo) esteja atualizada com as últimas alterações do repositório remoto Devoluper. Para isso, você pode usar o seguinte comando:
+Antes de fazer o merge, é importante garantir que a branch de trabalho (normalmente a branch principal do projeo) esteja atualizada com as últimas alterações do repositório remoto development. Para isso, você pode usar o seguinte comando:
 
 ```bash
-git checkout Devoluper
-git merge Devoluper --no-commit
+git checkout development
+git merge development --no-commit
 ```
 
 ### Passo 2: Realizar atualização da branch de trabalho 
 
-Agora que a branch Devoluper está atualizada e suas alterações foram commitadas, você pode ir para sua branch para realizar a atualização:
+Agora que a branch development está atualizada e suas alterações foram commitadas, você pode ir para sua branch para realizar a atualização:
 
 ```bash
 git checkout Numero_tarefa_jira
-git pull origin Devoluper
+git pull origin development
 ```
 
-Este comando atualizará as alterações da branch Devoluper na branch de trabalho Numero_tarefa_jira .
+Este comando atualizará as alterações da branch development na branch de trabalho Numero_tarefa_jira .
 
 ### Passo 3: Realizar merge e resolver conflitos (se houver)
 
 ```bash
-git push origin Devoluper
+git push origin development
 ```
 Em alguns casos, pode haver conflitos entre as alterações da sua nova branch e da branch de destino. O Git tentará resolver automaticamente os conflitos sempre que possível, mas em alguns casos, você precisará resolvê-los manualmente. Após resolver os conflitos, adicione as mudanças e faça um novo commit.
 
@@ -262,7 +262,7 @@ Em alguns casos, pode haver conflitos entre as alterações da sua nova branch e
 Após resolver os conflitos e fazer um novo commit, o merge estará completo. Agora você pode enviar as alterações para o repositório remoto:
 
 ```bash
-git push origin Devoluper
+git push origin development
 ```
 
 ### Passo 5: Excluir a nova branch
