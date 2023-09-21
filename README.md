@@ -152,12 +152,11 @@ Produtora de Inteligência Artificial</br>
 <h2>⚡ Observações para codar rápido e ganhar experiência!</h2>
 <ul><b>Baixar o Visual Studio Code (VSCode)<a class="btn btn-primary" href="https://code.visualstudio.com/" target="_blank" >  Link</a></b></ul>
 
- <ul><b>Entrar no wiki do código (Privado) <a class="btn btn-primary" href="https://thotiacorp.com.br/wiki/" target="_blank" >  Link</a></b> - Precisa ser menbro colaborador para vizualizar</ul>
+ <ul><b>Entrar no wiki do código (Privado) <a class="btn btn-primary" href="https://thotiacorp.com.br/wiki/" target="_blank" >  Link</a></b> - Precisa ser membro colaborador para vizualizar</ul>
 </br></br>
 
 </br></br>
 
- [Revisar] [Revisar] [Revisar] [Revisar]
 <h2>🛠️ Abrir o Visual Studio Code</h2>
 <ul>
 <b>Instalar extensôes</b>
