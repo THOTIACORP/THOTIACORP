@@ -9,7 +9,7 @@
 
 ![Logo](https://thotiacorp.com.br/static/media/logo.c0fbda65ca04c9013679.ico)
 
-<ul><b>Desenvolvedora de Softwares e Equipamentos para Saúde </b>
+<ul><b>Desenvolvedora de Softwares e Equipamentos </b>
 
 Produtora de Inteligência Artificial</br> 
 #IA #IoT #BIGDATA
