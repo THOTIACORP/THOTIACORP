@@ -1,3 +1,6 @@
+
+<div align="center">
+ 
 # THOT I.A. CORP.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -5,7 +8,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&&logo=tensorflow&logoColor=white)
 </br></br> 
-<div align="center">
+
 
 ![Logo](https://thotiacorp.com.br/static/media/logo.c0fbda65ca04c9013679.ico)
 
