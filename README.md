@@ -33,7 +33,7 @@ Produtora de Inteligência Artificial</br>
 # Índice
 
 <a  href="https://github.com/THOTIACORP#-como-fazer-o-dowload-do-desenvolvimento">
-💻  Como fazer o download do desenvolvimento</a></br>
+💻  Como fazer o download das dependências comuns do desenvolvimento e do projeto de trabalho</a></br>
 
 <a  href="https://github.com/THOTIACORP#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
 📚 Como começar os estudos e desenvolvimentos</a></br>
@@ -80,18 +80,16 @@ Produtora de Inteligência Artificial</br>
 🖍 Referências para criação deste readme.md</a></br>
 </br></br>
 
-<h2>💻 Como fazer o dowload do desenvolvimento</h2>
+<h2>💻 Como fazer o download das dependências comuns do desenvolvimento e do projeto de trabalho</h2>
 
  - Gerenciador de projetos; versionamento e outras atribuições
     - Git download e instalar https://git-scm.com/downloads
-    - GitHub Desktop download e instalar https://desktop.github.com/
+    - Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a>
+    - Conectar o Github para Desktop ao seu github
+    - Clonar o repositório de trabalho no seu github para Desktop
+    - No seu github para Desktop clickar em abrir com Vitual Studio Code clonar o diretorio especificado pelo cordernador
   
-<li>Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a></li>
-<li>Conectar o Github para Desktop ao seu github</li>
-<li>Clonar o repositório de trabalho no seu github para Desktop </li>
-<li>No seu github para Desktop clickar em abrir com Vitual Studio Code clonar o diretorio especificado pelo cordernador </li>
-
-
+      
 </br></br>
 <h2>📚 Como começar os estudos e desenvolvimentos</h2>
 <ul><b>Ler todo esse readme com atenção
