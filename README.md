@@ -82,6 +82,10 @@ Produtora de Inteligência Artificial</br>
 
 <h2>💻 Como fazer o dowload do desenvolvimento</h2>
 
+ - Gerenciador de projetos; versionamento e outras atribuições
+    - Git download e instalar https://git-scm.com/downloads
+    - GitHub Desktop download e instalar https://desktop.github.com/
+  
 <li>Baixar o Github para Desktop <a href="https://desktop.github.com/"  target="_blank"> Link</a></li>
 <li>Conectar o Github para Desktop ao seu github</li>
 <li>Clonar o repositório de trabalho no seu github para Desktop </li>
