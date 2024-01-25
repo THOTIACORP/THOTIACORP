@@ -32,7 +32,7 @@ Produtora de Inteligência Artificial</br>
 
 # Índice
 
-<a  href="https://github.com/THOTIACORP#-como-fazer-o-dowload-do-desenvolvimento">
+<a  href="https://github.com/THOTIACORP#-como-fazer-o-download-das-depend%C3%AAncias-comuns-do-desenvolvimento-e-do-projeto-de-trabalho">
 💻  Como fazer o download das dependências comuns do desenvolvimento e do projeto de trabalho</a></br>
 
 <a  href="https://github.com/THOTIACORP#-como-come%C3%A7ar-os-estudos-e-desenvolvimentos">
