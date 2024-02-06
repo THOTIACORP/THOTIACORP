@@ -1,7 +1,17 @@
 
 <div align="center">
  
-# THOT I.A. CORP.
+         _______   _    _    ____    _______        _____        ____                 ____    ___    _____     _____    
+        |__   __| | |  | |  / __ \  |__   __|      |_   _|      / /\\ \             / ___|  / __ \  |  __ \   |  __ \\  
+           | |    | |__| | | |  | |    | |           | |       / /  \\ \           | |     | |  | | | |__) |  | |__) |  
+           | |    | |__| | | |  | |    | |           | |      / /____\\ \          | |     | |  | | |  _  /   | ____/   
+              | |    | |  | | | |__| |    | |          _| |_  _ / /______\\ \ _       | |___  | |__| | | | \\\   | |   _      
+                |_|    |_|  |_|  \____/     |_|         |_____||_|\\__________/|_|       \____|  \____/  |_|  |_|  |_|  |_|       
+
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -12,20 +22,34 @@
 
 ![Logo](https://thotiacorp.com.br/static/media/logo.c0fbda65ca04c9013679.ico)
 
-<ul><b>Desenvolvedora de Softwares e Equipamentos </b>
+<ul><b> THOT I.A. CORP.</br> Desenvolvedora de Softwares e Equipamentos </b>
 
 Produtora de Inteligência Artificial</br> 
 #IA #IoT #BIGDATA
 </br></br> 
+
 
 <a href="https://thotiacorp.com.br" target="_blank" ><b>thotiacorp.com.br</b></a>
 </ul>
 </div>
 
 </br></br> 
-
-<h2>👋 Iniciado e idealizado por Peres; RB. Desenvolvido com auxílio de colaboradores👯.
+<h2>👋 Iniciado e idealizado por Peres; RB. desenvolvido com auxílio de colaboradores👯
 </h2>
+
+- © Todos direitos reservados para - https://thotiacorp.com.br 
+- © Defesa de domínio prorrogável indf. - Válido até 12/09/2028 (rastreado)  
+</br>
+
+- © Sistemas com manuais de desenvolvimento de ponta à ponta Readme 🗒️
+- © Sistemas com funções recursivas dinâmicas para facilitar o  Desenvolvimento e Formação Conjunta 🎓 
+- © Sistemas com 100% de testes - Altamente redundante 🔄
+- © Sistemas protegidos contra falhas operacionais ⚛️
+- © Sistemas protegidos com criptografias de ponta à ponta 🛡️
+</br>
+
+- © Compliance aberto e auditável ⚖️
+      
 
 
 </br></br>
