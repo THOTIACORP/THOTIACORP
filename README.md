@@ -53,7 +53,7 @@ Produtora de Inteligência Artificial</br>
 
 </br></br>
 
-# Índice
+# Índice do desenvolvedor
 
 <a  href="https://github.com/THOTIACORP#-como-fazer-o-download-das-depend%C3%AAncias-comuns-do-desenvolvimento-e-do-projeto-de-trabalho">
 💻  Como fazer o download das dependências comuns do desenvolvimento e do projeto de trabalho</a></br>
