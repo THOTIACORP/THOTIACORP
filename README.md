@@ -19,7 +19,7 @@
 </br></br> 
 
 
-![Logo](https://thotiacorp.com.br/static/media/logo.c0fbda65ca04c9013679.ico)
+![Logo](https://avatars.githubusercontent.com/u/90805434?u=d59a6552488275ce2a6febac9de9de205d370c7e&v=4)
 
 <ul><b> THOT I.A. CORP.</br> Desenvolvedora de Softwares e Equipamentos </b>
 
