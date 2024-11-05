@@ -1,15 +1,5 @@
 
 <div align="center">
- 
-      _______   _    _    ____    _______        _____        ____                 ____    ___    _____     _____    
-     |__   __| | |  | |  / __ \  |__   __|      |_   _|      / /\\ \             / ___|  / __ \  |  __ \   |  __ \\  
-        | |    | |__| | | |  | |    | |           | |       / /  \\ \           | |     | |  | | | |__) |  | |__) |  
-        | |    | |__| | | |  | |    | |           | |      / /____\\ \          | |     | |  | | |  _  /   | ____/   
-           | |    | |  | | | |__| |    | |          _| |_  _ / /______\\ \ _       | |___  | |__| | | | \\\   | |   _      
-             |_|    |_|  |_|  \____/     |_|         |_____||_|\\__________/|_|       \____|  \____/  |_|  |_|  |_|  |_|       
-
-
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
