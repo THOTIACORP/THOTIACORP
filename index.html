@@ -1,23 +1,199 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ThotiaCorp - Perfil</title>
-    <link rel="icon" href="favicon.ico">
-  </head>
-  <body>
-    <header>
-      <h1>Bem-vindo ao meu perfil!</h1>
-      <p>Meu nome é ThotiaCorp e este é o meu site de perfil pessoal.</p>
-    </header>
-    <section>
-      <h2>Sobre mim</h2>
-      <p>Sou um desenvolvedor apaixonado por tecnologia e inovação. Abaixo estão alguns links para me conhecer melhor:</p>
-      <ul>
-        <li><a href="https://github.com/thotiacorp">Meu GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/thotiacorp">Meu LinkedIn</a></li>
-      </ul>
-    </section>
-  </body>
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>API com RPC + REST</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0D47A1;
+      color: #fff;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px 20px;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      color: white;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      color: #fff;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      color: #E3F2FD;
+       text-align: justify; 
+    }
+
+    .highlight-yellow {
+      color: #FFEB3B;
+      font-weight: bold;
+    }
+
+    .highlight-green {
+      color: #00E676;
+      font-weight: bold;
+    }
+
+    .code-box {
+      background-color: #102E6C;
+      padding: 20px;
+      border-left: 5px solid #00E676;
+      font-family: 'Courier New', monospace;
+      color: #fff;
+      margin: 20px 0;
+      border-radius: 6px;
+    }
+
+    .method-line {
+      display: grid;
+      grid-template-columns: 80px 1fr;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .method {
+      font-weight: bold;
+      color: #00E676;
+    }
+
+    .route {
+      color: #fff;
+    }
+
+    .comparison {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .comparison > div {
+      flex: 1;
+      background: #1565C0;
+      padding: 20px;
+      border-radius: 8px;
+      min-width: 280px;
+    }
+
+    ul {
+      font-size: 1.2rem;
+      color: #E3F2FD;
+      line-height: 1.8;
+    }
+
+    footer {
+      text-align: center;
+      color: #90CAF9;
+      padding: 40px 20px;
+      font-size: 1rem;
+    }
+
+    @media (max-width: 768px) {
+      .comparison {
+        flex-direction: column;
+      }
+    }
+    @media print {
+
+  section {
+    page-break-before: always;
+  }
+
+  section:first-of-type {
+    page-break-before: auto;
+  }
+
+
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🔧 API: Combinando RPC + REST</h1>
+  </header>
+
+  <section>
+    <h2>Por que usar <span class="highlight-yellow">RPC + REST</span>?</h2>
+    <p>
+      Ao unir o estilo <span class="highlight-green">RPC</span> com <span class="highlight-green">REST</span>, mantemos uma estrutura de rotas onde o nome do <strong>arquivo</strong>, <strong>função</strong> e <strong>endpoint</strong> seguem o mesmo padrão. Isso facilita a <strong>escalabilidade</strong>, a <strong>manutenção</strong> e a leitura do código.
+    </p>
+  </section>
+
+  <section>
+    <h2>Comparando Padrões</h2>
+    <div class="comparison">
+      <div>
+        <h3>🔸 REST Tradicional</h3>
+        <div class="code-box">
+          <div class="method-line"><span class="method">GET</span><span class="route">/products</span></div>
+          <div class="method-line"><span class="method">POST</span><span class="route">/products</span></div>
+          <div class="method-line"><span class="method">PUT</span><span class="route">/products</span></div>
+          <div class="method-line"><span class="method">DELETE</span><span class="route">/products</span></div>
+        </div>
+        <p>Para manter o padrão REST, apenas um arquivo pode ser criado <ul><strong> products.js  </ul> </strong> qualquer outro arquivo usado por este com nome diferente quebram o padrão semântico e dificultam a manutenção vejamos:</p>
+                <h3>🔸 REST Caipira</h3>
+
+        <div class="code-box">
+          <div class="method-line"><span class="method">GET</span><span class="route">/productsConsultar</span></div>
+          <div class="method-line"><span class="method">POST</span><span class="route">/productsCadastrar</span></div>
+        </div>
+        <p>Rotas como <code>/productsConsultar</code> quebram o padrão semântico e dificultam a manutenção</p>
+      </div>
+      <div>
+        <h3>✅ RPC + REST</h3>
+        <div class="code-box">
+          <div class="method-line"><span class="method">GET</span><span class="route">/get_products</span></div>
+          <div class="method-line"><span class="method">POST</span><span class="route">/post_products</span></div>
+          <div class="method-line"><span class="method">PUT</span><span class="route">/put_products</span></div>
+          <div class="method-line"><span class="method">DELETE</span><span class="route">/delete_products</span></div>
+        </div>
+        <p>Mantém consistência entre <strong>nome do arquivo</strong>, <strong>função</strong> e <strong>rota</strong>.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>🎯 Benefícios do padrão RPC + REST</h2>
+    <ul>
+      <li>🔵 Nome da rota = nome do arquivo</li>
+      <li>🟢 Nome da função = nome da rota</li>
+      <li>🟡 Consistência entre serviços</li>
+      <li>⚙️ Fácil manutenção e refatoração</li>
+      <li>🚀 Padrão escalável e limpo</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📌 Conclusão</h2>
+    <p>
+      Usar o padrão <span class="highlight-green">/verbo_entidade</span> como <span class="highlight-yellow">/get_products</span> não é só semântico — é uma decisão de arquitetura inteligente.
+    </p>
+    <p>
+      Evite criar rotas como <code>/productsConsultar</code> — isso gera distorções de leitura e quebra o alinhamento técnico.
+    </p>
+  </section>
+
+  <footer>
+    © 2025 por Ronnei Borges • API com RPC + REST • Padrão de Ouro
+  </footer>
+
+</body>
 </html>
+
+
